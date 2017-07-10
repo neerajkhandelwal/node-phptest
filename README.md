@@ -5,7 +5,9 @@ PHPTest helps in running phpunit tests using nodejs.
 Easy integration with build tools like grunt. This can also be integrated with JS based dev tools using very simple API.
 
 ### Installation
-`npm install --save git+https://github.com:neerajkhandelwal/node-phptest.git`.
+```
+npm install --save git+https://git@github.com/neerajkhandelwal/node-phptest.git
+```
 
 [Read this](https://stackoverflow.com/questions/17509669/how-to-install-an-npm-package-from-github-directly) for more information on installing npm packages from hosts other than npmjs.com.
 
